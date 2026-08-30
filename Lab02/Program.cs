@@ -124,12 +124,7 @@ namespace Lab02
             Console.WriteLine($"Current HP: {currentHpmage}");
             Console.WriteLine($"Attack Power: {attackPowermage}");
             Console.WriteLine($"Critical Multiplier: {critMultipliermage}");
-            Console.WriteLine($"Is Mage: {isMage}");
-
-            Console.WriteLine("==== FARMER STATUS: AFTER DAMAGE ====");
-            Console.WriteLine($"HP: {currentHp}/{maxHp}");
-            hpPercentage = currentHp * 100 / maxHp;
-            Console.WriteLine($"hpPercentage: {hpPercentage}%");          
+            Console.WriteLine($"Is Mage: {isMage}");  
         }
     }
 }
