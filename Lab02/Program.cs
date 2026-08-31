@@ -38,11 +38,7 @@ namespace Lab02
             currentHp = currentHp - 60;
             Console.WriteLine();
 
-            Console.WriteLine("==== HUNTER STATUS: AFTER DAMAGE ====");
-            Console.WriteLine($"HP: {currentHp}/{maxHp}");
-            hpPercentage = currentHp * 100 / maxHp;
-            Console.WriteLine($"hpPercentage: {hpPercentage}%");
-           
+            Console.WriteLine("==== HUNTER STATUS ====");
             string hunter = "Rin";
             char hunterRank = 'B';
             int FameHunter = 7;
@@ -60,11 +56,7 @@ namespace Lab02
             Console.WriteLine($"Critical Multiplier: {critMultiplierhunter}");
             Console.WriteLine($"Is Hunter: {isHunter}");
 
-            Console.WriteLine("==== KNIGHT STATUS: AFTER DAMAGE ====");
-            Console.WriteLine($"HP: {currentHp}/{maxHp}");
-            hpPercentage = currentHp * 100 / maxHp;
-            Console.WriteLine($"hpPercentage: {hpPercentage}%");
-           
+            Console.WriteLine("==== KNIGHT STATUS ====");       
             string knight = "Shaka";
             char knightRank = 'S';
             int FameKnight = 100;
@@ -82,17 +74,13 @@ namespace Lab02
             Console.WriteLine($"Critical Multiplier: {critMultiplierknight}");
             Console.WriteLine($"Is Knight: {isKnight}");
 
-            Console.WriteLine("==== KING STATUS: AFTER DAMAGE ====");
-            Console.WriteLine($"HP: {currentHp}/{maxHp}");
-            hpPercentage = currentHp * 100 / maxHp;
-            Console.WriteLine($"hpPercentage: {hpPercentage}%");
-
+            Console.WriteLine("==== KING STATUS ====");       
             string king = "Arthur";
             char kingRank = '0';
             int FameKing = 10000;
             int maxHpking = 1500;
             int currentHpking = 1000;
-            float attackPowerking = 50.5f;
+            float attackPowerking = 500.5f;
             double critMultiplierking = 1.75;
             bool isKing = true;
             Console.WriteLine($"King: {king}");
@@ -104,11 +92,8 @@ namespace Lab02
             Console.WriteLine($"Critical Multiplier: {critMultiplierking}");
             Console.WriteLine($"Is King: {isKing}");
 
-            Console.WriteLine("==== MAGE STATUS: AFTER DAMAGE ====");
-            Console.WriteLine($"HP: {currentHp}/{maxHp}");
-            hpPercentage = currentHp * 100 / maxHp;
-            Console.WriteLine($"hpPercentage: {hpPercentage}%");
-
+            Console.WriteLine("==== MAGE STATUS ====");
+           
             string mage = "Merlin";
             char mageRank = '?';
             int FameMage = 100000000;
