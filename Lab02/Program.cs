@@ -43,7 +43,7 @@ namespace Lab02
             char hunterRank = 'B';
             int FameHunter = 7;
             int maxHphunter = 100;
-            int currentHphunter = 50;
+            int hunterMana = 50;
             float attackPowerhunter = 10.5f;
             double critMultiplierhunter = 1.75;
             bool isHunter = true;
@@ -51,7 +51,7 @@ namespace Lab02
             Console.WriteLine($"Rank: {hunterRank}");
             Console.WriteLine($"Fame: {FameHunter}");
             Console.WriteLine($"Max HP: {maxHphunter}");
-            Console.WriteLine($"Current HP: {currentHphunter}");
+            Console.WriteLine($"Mana: {hunterMana}");
             Console.WriteLine($"Attack Power: {attackPowerhunter}");
             Console.WriteLine($"Critical Multiplier: {critMultiplierhunter}");
             Console.WriteLine($"Is Hunter: {isHunter}");
@@ -60,7 +60,7 @@ namespace Lab02
             string knight = "Shaka";
             char knightRank = 'S';
             int FameKnight = 100;
-            int maxHpknight = 1000;
+            int knightMana = 1000;
             int currentHpknight = 800;
             float attackPowerknight = 200.5f;
             double critMultiplierknight = 1.75;
@@ -68,7 +68,7 @@ namespace Lab02
             Console.WriteLine($"Knight: {knight}");
             Console.WriteLine($"Rank: {knightRank}");
             Console.WriteLine($"Fame: {FameKnight}");
-            Console.WriteLine($"Max HP: {maxHpknight}");
+            Console.WriteLine($"Max HP: {knightMana}");
             Console.WriteLine($"Current HP: {currentHpknight}");
             Console.WriteLine($"Attack Power: {attackPowerknight}");
             Console.WriteLine($"Critical Multiplier: {critMultiplierknight}");
@@ -79,7 +79,7 @@ namespace Lab02
             char kingRank = '0';
             int FameKing = 10000;
             int maxHpking = 1500;
-            int currentHpking = 1000;
+            int kingMana = 1000;
             float attackPowerking = 500.5f;
             double critMultiplierking = 1.75;
             bool isKing = true;
@@ -87,7 +87,7 @@ namespace Lab02
             Console.WriteLine($"Rank: {kingRank}");
             Console.WriteLine($"Fame: {FameKing}");
             Console.WriteLine($"Max HP: {maxHpking}");
-            Console.WriteLine($"Current HP: {currentHpking}");
+            Console.WriteLine($"Current HP: {kingMana}");
             Console.WriteLine($"Attack Power: {attackPowerking}");
             Console.WriteLine($"Critical Multiplier: {critMultiplierking}");
             Console.WriteLine($"Is King: {isKing}");
@@ -97,16 +97,16 @@ namespace Lab02
             string mage = "Merlin";
             char mageRank = '?';
             int FameMage = 100000000;
-            int maxHpmage = 150000;
-            int currentHpmage =14500;
+            int mageHp1 = 150000;
+            int mageMana =14500000;
             float attackPowermage = 500.5f;
             double critMultipliermage = 1.75;
             bool isMage = true;
             Console.WriteLine($"Mage: {mage}");
             Console.WriteLine($"Rank: {mageRank}");
             Console.WriteLine($"Fame: {FameMage}");
-            Console.WriteLine($"Max HP: {maxHpmage}");
-            Console.WriteLine($"Current HP: {currentHpmage}");
+            Console.WriteLine($"Max HP: {mageHp1}");        
+            Console.WriteLine($"Mana: {mageMana}");
             Console.WriteLine($"Attack Power: {attackPowermage}");
             Console.WriteLine($"Critical Multiplier: {critMultipliermage}");
             Console.WriteLine($"Is Mage: {isMage}");  
