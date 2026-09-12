@@ -1,4 +1,11 @@
-﻿namespace Lab04
+﻿/*
+ * Student ID :1690703549
+ * Name       :Siraphat Darasa
+ * Section    :129B
+ * No.        : NA
+ * Course     : GI113 Computer Programming (GI)
+ */
+namespace Lab04
 {
     internal class Program
     {
