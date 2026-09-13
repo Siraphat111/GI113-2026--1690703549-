@@ -1,0 +1,16 @@
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\bin\Debug\net10.0\Assignment01.exe
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\bin\Debug\net10.0\Assignment01.deps.json
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\bin\Debug\net10.0\Assignment01.runtimeconfig.json
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\bin\Debug\net10.0\Assignment01.dll
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\bin\Debug\net10.0\Assignment01.pdb
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\Assignment01.AssemblyInfoInputs.cache
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\Assignment01.AssemblyInfo.cs
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\Assignment01.csproj.CoreCompileInputs.cache
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\Assignment01.sourcelink.json
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\Assignment01.dll
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\refint\Assignment01.dll
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\Assignment01.pdb
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\Assignment01.genruntimeconfig.cache
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\ref\Assignment01.dll
+C:\Gi113 code\GI113-2026--1690703549-\Assignment01\obj\Debug\net10.0\Assignme.FB755A97.Up2Date
