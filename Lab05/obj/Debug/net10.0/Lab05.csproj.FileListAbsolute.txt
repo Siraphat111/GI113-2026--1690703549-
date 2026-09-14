@@ -1,0 +1,16 @@
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\bin\Debug\net10.0\Lab05.exe
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\bin\Debug\net10.0\Lab05.deps.json
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\bin\Debug\net10.0\Lab05.runtimeconfig.json
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\bin\Debug\net10.0\Lab05.dll
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\bin\Debug\net10.0\Lab05.pdb
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\Lab05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\Lab05.AssemblyInfoInputs.cache
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\Lab05.AssemblyInfo.cs
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\Lab05.csproj.CoreCompileInputs.cache
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\Lab05.sourcelink.json
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\Lab05.dll
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\refint\Lab05.dll
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\Lab05.pdb
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\Lab05.genruntimeconfig.cache
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\ref\Lab05.dll
+C:\Gi113 code\GI113-2026--1690703549-\Lab05\obj\Debug\net10.0\Lab05.csproj.Up2Date
