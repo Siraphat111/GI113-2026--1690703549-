@@ -48,8 +48,6 @@ namespace Assignment01
            
             Console.WriteLine("-------------------");
             
-            Console.WriteLine("𝚁𝙳𝚁𝟸 𝙸𝚂 𝙰 𝙼𝙰𝚂𝚃𝙴𝚁𝙿𝙸𝙴𝙲𝙴.");
-           
             Console.ReadLine();
         }
     }
